@@ -1,10 +1,7 @@
-
 <div style="display: flex; align-items: center;"> 
 <div style="margin-top: 30px"><img src="https://github.com/seomiii/seomiii/assets/86819719/83d0be33-32aa-4d61-ada2-52eb12a213a9" width=80px></div> 
 <div><h1 style="margin-left: 15px; line-height: 40px">Samsung SIGNATURE</h1></div>
 </div>
-
-<hr>
 
 ## 💳 개요
 

@@ -19,7 +19,7 @@
       <col widht="60%"/>
    </colgroup>
 	<tr>
-		<td width="200" height="300"><img src="" width="200" height="400"/></td>
+		<td width="200" height="300"><img src="https://github.com/KTaeGyu/Today-I-Learned/assets/138270135/c5a0bdc4-0a1e-4875-b035-7b83fbb02450" width="200" height="400"/></td>
 		<td><br><h4>시그니처 카드 등록</h4><br>대리 결제 시 사용할 시그니처 카드를 삼성 월렛에 등록할 수 있습니다.
 </td>
 	</tr>
@@ -52,7 +52,7 @@
 </ul></td>
 	</tr>
    <tr>
-		<td width="200" height="300"><img src="" width="200" height="400"/></td>
+		<td width="200" height="300"><img src="https://github.com/KTaeGyu/Today-I-Learned/assets/138270135/f653f36e-92ad-40db-b894-31becbebf519" width="200" height="400"/></td>
 		<td><br><br><h4>대리 결제</h4><br>빌린 카드를 선택한 후 삼성 페이에 있는 시그니처 카드로 결제를 진행할 수 있습니다.<br><br>
 <ul><li>대리 결제 요청 조건( 제한 금액, 결제 상품 종류 , 기한 등 )에 부합하지 않으면 결제가 불가합니다.</li>
 </ul></td>
